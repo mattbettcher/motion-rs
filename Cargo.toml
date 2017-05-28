@@ -1,5 +1,5 @@
 [package]
-name = "motion"
+name = "motion-rs"
 version = "0.1.0"
 authors = ["Matthew Bettcher <mattbettcher@gmail.com>"]
 
